@@ -17,7 +17,7 @@ body{
     width:100%;
     position: relative;
     overflow:hidden;
-    background: red url(/images/images.jpg) center repeat;
+    background: red url(images/images.jpg) center repeat;
     z-index:-2;
 }
 .slider{
@@ -150,4 +150,5 @@ li:hover:before{
     .slider{
         width:140px;
         height:190px;}
+
 }
